@@ -32,7 +32,7 @@
 
 ### 👤 About Me
 
-AI Executive & Full-Stack Developer based in **Cebu, Philippines (10.31°N 123.89°E)**. I bridge the gap between cutting-edge AI technology and real-world business needs — from building agentic automation pipelines with **n8n**, **OpenClaw**, and **Claude AI**, to architecting production-grade web & mobile applications.
+AI Executive & Full-Stack Developer based in **Cebu, Philippines**. I bridge the gap between cutting-edge AI technology and real-world business needs — from building agentic automation pipelines with **n8n**, **OpenClaw**, and **Claude AI**, to architecting production-grade web & mobile applications.
 
 - 💼 **Current Role:** AI Executive & Project Coordinator at **Lifewood Data Technology Ltd.**
 - 🎓 **Education:** B.S. Information Technology — Cebu Institute of Technology — University (2021 — 2025)
@@ -44,7 +44,7 @@ AI Executive & Full-Stack Developer based in **Cebu, Philippines (10.31°N 123.8
       <td align="center"><b>22+</b><br/>Projects Built</td>
       <td align="center"><b>4+ Years</b><br/>Coding Experience</td>
       <td align="center"><b>25+</b><br/>Technologies</td>
-      <td align="center"><b>03</b><br/>AI Pipelines</td>
+      <td align="center"><b>3+</b><br/>AI Pipelines</td>
       <td align="center"><b>20 Verified</b><br/>AI Certifications</td>
     </tr>
   </table>
@@ -56,7 +56,7 @@ AI Executive & Full-Stack Developer based in **Cebu, Philippines (10.31°N 123.8
 
 | Discipline | Description | Selected Tools & Methods |
 | :--- | :--- | :--- |
-| **01. Agentics & AI Integration** | Building agentic automation pipelines from prompt engineering and LLM integration to fully autonomous task workflows. | `n8n` `OpenClaw` `Claude AI` `LLM` `RAG` `pgvector` |
+| **01. Agentics & AI Integration** | Building agentic automation pipelines from prompt engineering and LLM integration to fully autonomous task workflows. | `n8n` `OpenClaw` `Claude AI` `Cursor` `Antigravity` `Codex` `OpenCode` `LLM` `RAG` `pgvector` |
 | **02. Chatbot & RAG Systems** | Designing conversational AI chatbots powered by retrieval-augmented generation connecting custom knowledge bases. | `RAG` `LLM` `Chatbots` `Vector Embeddings` |
 | **03. Marketing & Tracking** | End-to-end campaign management, tracking tag integration, and performance dashboards. | `Meta Ads` `GA4` `UTM Parameters` `HubSpot` `GoHighLevel` |
 | **04. Full Stack Development** | End-to-end architecture designing scalable systems from database to front-end deployment. | `React` `Next.js` `Supabase` `Spring Boot` `TypeScript` |
@@ -71,7 +71,7 @@ AI Executive & Full-Stack Developer based in **Cebu, Philippines (10.31°N 123.8
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **AI & Agentics** | ![Claude AI](https://img.shields.io/badge/Claude_AI-D97706?style=flat-square&logo=anthropic&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white) ![OpenClaw](https://img.shields.io/badge/OpenClaw-007AFF?style=flat-square) ![ElevenLabs](https://img.shields.io/badge/ElevenLabs_AI-FF6B6B?style=flat-square) ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white) ![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square) |
+| **AI & Agentics** | ![Claude AI](https://img.shields.io/badge/Claude_AI-D97706?style=flat-square&logo=anthropic&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-111111?style=flat-square) ![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat-square) ![OpenAI Codex](https://img.shields.io/badge/Codex-00A67E?style=flat-square&logo=openai&logoColor=white) ![OpenCode](https://img.shields.io/badge/OpenCode-007AFF?style=flat-square) ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white) ![OpenClaw](https://img.shields.io/badge/OpenClaw-007AFF?style=flat-square) ![ElevenLabs](https://img.shields.io/badge/ElevenLabs_AI-FF6B6B?style=flat-square) ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white) ![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square) |
 | **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |
 | **Mobile & Backend** | ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-000000?style=flat-square&logo=expo&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) |
 | **Databases & Cloud** | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
@@ -165,10 +165,24 @@ AI Executive & Full-Stack Developer based in **Cebu, Philippines (10.31°N 123.8
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SHUUAA&show_icons=true&theme=tokyonight&border_radius=12&hide_border=false" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHUUAA&layout=compact&theme=tokyonight&border_radius=12&hide_border=false" width="48%" alt="Top Languages" />
-  <br /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHUUAA&theme=tokyonight&hide_border=false&border_radius=12" width="97%" alt="GitHub Streak" />
+  <table border="0">
+    <tr>
+      <td align="center" valign="top">
+        <a href="https://github.com/SHUUAA">
+          <img src="https://github-readme-stats.vercel.app/api?username=SHUUAA&show_icons=true&theme=tokyonight&border_radius=8&count_private=true" alt="Joshua's GitHub Stats" />
+        </a>
+      </td>
+      <td align="center" valign="top">
+        <a href="https://github.com/SHUUAA">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHUUAA&layout=compact&theme=tokyonight&border_radius=8" alt="Most Used Languages" />
+        </a>
+      </td>
+    </tr>
+  </table>
+  <br />
+  <a href="https://github.com/SHUUAA">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHUUAA&theme=tokyonight&border_radius=8" alt="GitHub Streak" />
+  </a>
 </div>
 
 ---
