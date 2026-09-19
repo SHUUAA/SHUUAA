@@ -169,12 +169,12 @@ AI Executive & Full-Stack Developer based in **Cebu, Philippines**. I bridge the
     <tr>
       <td align="center" valign="top">
         <a href="https://github.com/SHUUAA">
-          <img src="https://github-readme-stats.vercel.app/api?username=SHUUAA&show_icons=true&theme=tokyonight&border_radius=8&count_private=true" alt="Joshua's GitHub Stats" />
+          <img src="https://github-stats-extended.vercel.app/api?username=SHUUAA&show_icons=true&theme=tokyonight&border_radius=8&count_private=true" alt="Joshua's GitHub Stats" />
         </a>
       </td>
       <td align="center" valign="top">
         <a href="https://github.com/SHUUAA">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHUUAA&layout=compact&theme=tokyonight&border_radius=8" alt="Most Used Languages" />
+          <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=SHUUAA&layout=compact&theme=tokyonight&border_radius=8" alt="Most Used Languages" />
         </a>
       </td>
     </tr>
